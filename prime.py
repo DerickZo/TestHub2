@@ -25,7 +25,7 @@ for i in range(2,100):
                  break
             elif n == (i-1) :
                 print(i)
-            
+print("done")
             
                        
             
