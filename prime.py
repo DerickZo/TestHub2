@@ -26,6 +26,7 @@ for i in range(2,100):
             elif n == (i-1) :
                 print(i)
 print("done")
+print("is sync now?")
             
                        
             
