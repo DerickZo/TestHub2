@@ -28,6 +28,7 @@ for i in range(2,100):
 print("done")
 print("is sync now?")
 print("try again!")
+print("i get it!")
             
                        
             
