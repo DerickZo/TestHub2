@@ -29,12 +29,3 @@ print("done")
 print("is sync now?")
 print("try again!")
 print("i get it!")
-            
-                       
-            
-                
-
-
-
-
-
